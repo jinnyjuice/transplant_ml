@@ -17,7 +17,7 @@ Predicting 1-Year Graft Survival in Liver Transplantation: A Machine Learning St
 - USA → GER model	**3.4_pycaret_USAtoGER.html**
 - combined model	**3.5_pycaret_together.html**
 
-## Dataset summary
+## Dataset summaries
 - German dataset summary before imputation	**ger_1.html**
 - U.S. dataset summary before imputation	**usa_1.html**
 - Merged dataset summary before imputation	**merged.html**
