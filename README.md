@@ -40,9 +40,8 @@ Jin-On Jung<sup>1,¶</sup>,MD; Simon Moosburner<sup>2,3,¶</sup>, MD; Lauren Mat
 <sup>4</sup>	Department of Surgery, Division of Surgical Transplantation, University of Texas Southwestern Medical Center, Dallas, TX, USA
 <br>
 <sup>¶</sup>	Contributed equally	
-<br>
-<br>
-Corresponding Author: 
+
+## Corresponding Author
 <br>
 Prof. Dr. Nathanael Raschzok
 <br>
