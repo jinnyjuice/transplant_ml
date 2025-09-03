@@ -42,7 +42,6 @@ Jin-On Jung<sup>1,¶</sup>,MD; Simon Moosburner<sup>2,3,¶</sup>, MD; Lauren Mat
 <sup>¶</sup>	Contributed equally	
 
 ## Corresponding Author
-<br>
 Prof. Dr. Nathanael Raschzok
 <br>
 Department of Surgery, Campus Charité Mitte | Campus Virchow-Klinikum
