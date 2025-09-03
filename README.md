@@ -52,6 +52,6 @@ Charité– Universitätsmedizin Berlin
 <br>
 Augustenburger Platz 1
 <br>
-13353 Berlin
-Germany
+13353 Berlin, Germany
+<br>
 nathanael.raschzok@charite.de
