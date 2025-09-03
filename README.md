@@ -1,7 +1,7 @@
 # Index of Uploaded Files
 Predicting 1-Year Graft Survival in Liver Transplantation: A Machine Learning Study Using Registry Data from Germany and the US
 <br>
-Jin-On Jung1,¶,MD; Simon Moosburner2,3,¶, MD; Lauren Matevish4, MD; Brian Jafari4, Christiane Bruns1, MD; Johann Pratschke2, MD, PhD, FACS; Parsia A. Vagefi4, MD, FACS; Thomas Schmidt1, MD; Madhukar S. Patel4, MD, FACS; Nathanael Raschzok2,3, MD
+Jin-On Jung<sup>1,¶</sup>,MD; Simon Moosburner2,3,¶, MD; Lauren Matevish4, MD; Brian Jafari4, Christiane Bruns1, MD; Johann Pratschke2, MD, PhD, FACS; Parsia A. Vagefi4, MD, FACS; Thomas Schmidt1, MD; Madhukar S. Patel4, MD, FACS; Nathanael Raschzok2,3, MD
 
 ## German dataset
 - data handling	**1.1_import_GER.ipynb**
